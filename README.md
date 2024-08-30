@@ -8,7 +8,6 @@
 ### ***In this Repo, we introduce a new method called **StA** to equip a pretrained image model (such as CLIP) with the ability to capture both spatial and temporal features jointly and efficiently.***
 
 Specifically, StA is designed with two-stream 3D-Conv with varying kernel sizes, allowing it to process spatial and temporal features separately.
-g on FF++ and testing on CDF).
 
 The figure below provides a brief introduction to the design of StA.
 
