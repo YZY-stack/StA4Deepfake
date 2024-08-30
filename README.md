@@ -59,6 +59,13 @@ The pretrained weights of "CLIP-l14 + our StA" training on FaceForensics++ are r
 ### 3. Run demo
 You can then infer **one video** (we provide an example video "simswap_000_003.mp4" for illustration) using the pretrained weights. 
 
+Specifically, run the following line:
+
+```
+python training/demo.py
+```
+
+You can adjust some parameters inside the demo.py file.
 
 
 
