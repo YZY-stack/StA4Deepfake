@@ -15,7 +15,7 @@ The figure below provides a brief introduction to the design of StA.
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figs/sta_pipeline.pdf" style="max-width:60%;">
+  <img src="figs/sta_pipeline.png" style="max-width:60%;">
 </div>
 
 
@@ -27,7 +27,7 @@ The following tables display the results of our method on several deepfake detec
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figs/table1.png" style="max-width:60%;">
+  <img src="figs/table1.png" style="max-width:50%;">
 </div>
 
 
@@ -35,13 +35,13 @@ The following tables display the results of our method on several deepfake detec
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figs/table2.png" style="max-width:60%;">
+  <img src="figs/table2.png" style="max-width:50%;">
 </div>
 
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figs/table3.png" style="max-width:60%;">
+  <img src="figs/table3.png" style="max-width:40%;">
 </div>
 
 ---
