@@ -65,7 +65,9 @@ Specifically, run the following line:
 python training/demo.py
 ```
 
-You can adjust some parameters inside the demo.py file.
+After running the above line, you can obtain all prediction results (fake probabilities) for each clip (clip size is 8). 
+
+By default, all frames within the video are used for inference. The frames are organized into clips of 8 frames each, with no overlap between clips. You can try other computation methods for this.
 
 
 
