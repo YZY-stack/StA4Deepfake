@@ -1,4 +1,6 @@
-# Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning [Paper Link](https://arxiv.org/abs/2406.134950); [Pretrained Weights](https://docs.google.com/forms/d/1ESAWoWusOEGEEVnXCH_emv-wJqCYMhCbD6-85RMIoDk/edit))
+# Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning 
+
+### [Paper Link](https://arxiv.org/abs/2406.134950); [Pretrained Weights](https://docs.google.com/forms/d/1ESAWoWusOEGEEVnXCH_emv-wJqCYMhCbD6-85RMIoDk/edit)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-brightgreen.svg)](https://creativecommons.org/licenses/by-nc/4.0/) ![Release .10](https://img.shields.io/badge/Release-1.0-brightgreen) ![PyTorch](https://img.shields.io/badge/PyTorch-1.11-brightgreen) ![Python](https://img.shields.io/badge/Python-3.7.2-brightgreen)
 
@@ -25,7 +27,7 @@ The following tables display the results of our method on several deepfake detec
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figs/table1.jpg" style="max-width:60%;">
+  <img src="figs/table1.png" style="max-width:60%;">
 </div>
 
 
@@ -33,9 +35,14 @@ The following tables display the results of our method on several deepfake detec
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figs/table2.jpg" style="max-width:60%;">
+  <img src="figs/table2.png" style="max-width:60%;">
 </div>
 
+<div align="center"> 
+</div>
+<div style="text-align:center;">
+  <img src="figs/table3.png" style="max-width:60%;">
+</div>
 
 ---
 
