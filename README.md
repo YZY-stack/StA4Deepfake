@@ -15,7 +15,7 @@ The figure below provides a brief introduction to the design of StA.
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figs/sta_pipelines.pdf" style="max-width:60%;">
+  <img src="figs/sta_pipeline.pdf" style="max-width:60%;">
 </div>
 
 
