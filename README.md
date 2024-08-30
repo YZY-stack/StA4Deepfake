@@ -41,7 +41,7 @@ The following tables display the results of our method on several deepfake detec
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figs/table3.png" style="max-width:40%;">
+  <img src="figs/table3.png" style="max-width:20%;">
 </div>
 
 ---
