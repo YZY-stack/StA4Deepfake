@@ -127,3 +127,14 @@ python3 training/test.py \
 --weights_path ./training/weights/sta_best.pth
 ```
 Then, you can obtain similar evaluation results reported in our manuscript.
+
+
+## Citation
+```
+@article{yan2024generalizing,
+  title={Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning},
+  author={Yan, Zhiyuan and Zhao, Yandan and Chen, Shen and Fu, Xinghe and Yao, Taiping and Ding, Shouhong and Yuan, Li},
+  journal={arXiv preprint arXiv:2408.17065},
+  year={2024}
+}
+```
