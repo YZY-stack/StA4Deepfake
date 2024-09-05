@@ -130,6 +130,7 @@ Then, you can obtain similar evaluation results reported in our manuscript.
 
 
 ## Citation
+If you find our work helpful to your research, please consider citing our paper as follows:
 ```
 @article{yan2024generalizing,
   title={Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning},
@@ -138,3 +139,4 @@ Then, you can obtain similar evaluation results reported in our manuscript.
   year={2024}
 }
 ```
+
