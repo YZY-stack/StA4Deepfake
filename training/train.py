@@ -72,8 +72,8 @@ def prepare_training_data(config):
         train_set = ShuffleDataset(config)
     elif 'dataset_type' in config and config['dataset_type'] == 'pair':
         train_set = pairDataset(config)  # Only use the pair dataset class in training
-    elif 'video_mode' in config and config['video_mode'] == True:
-        train_set = VideoIODataset_train(config, mode='train')
+    #elif 'video_mode' in config and config['video_mode'] == True:
+        #train_set = VideoIODataset_train(config, mode='train')
         #train_set = VideoBlendDataset(config, mode='train')
     else:
         train_set = DeepfakeAbstractBaseDataset(
@@ -108,10 +108,10 @@ def prepare_testing_data(config):
         # update the config dictionary with the specific testing dataset
         config = config.copy()  # create a copy of config to avoid altering the original one
         config['test_dataset'] = test_name  # specify the current test dataset
-        if 'video_mode' in config and config['video_mode'] == True:
-            test_set = VideoIODataset_test(config, mode='test')
-        else:
-            test_set = DeepfakeAbstractBaseDataset(config=config, mode='test')
+        #if 'video_mode' in config and config['video_mode'] == True:
+        #    test_set = VideoIODataset_test(config, mode='test')
+        #else:
+        test_set = DeepfakeAbstractBaseDataset(config=config, mode='test')
         test_data_loader = \
             torch.utils.data.DataLoader(
                 dataset=test_set,
