@@ -5,7 +5,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-brightgreen.svg)](https://creativecommons.org/licenses/by-nc/4.0/) ![Release .10](https://img.shields.io/badge/Release-1.0-brightgreen) ![PyTorch](https://img.shields.io/badge/PyTorch-1.11-brightgreen) ![Python](https://img.shields.io/badge/Python-3.7.2-brightgreen)
 
 
-### ***In this Repo, we introduce a new method called **StA** to equip a pretrained image model (such as CLIP) with the ability to capture both spatial and temporal features jointly and efficiently.***
+### ***In this Repo, we introduce a new method called **StA** to equip a pre-trained image model (such as CLIP) with the ability to capture both spatial and temporal forgery features jointly and efficiently for better deepfake video detection.***
 
 Specifically, StA is designed with two-stream 3D-Conv with varying kernel sizes, allowing it to process spatial and temporal features separately.
 
